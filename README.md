@@ -5,3 +5,5 @@ A test project for a simple calculator built using ClojureScript, with the Reage
 ## How to run
 `npm install`\
 `npx shadow-cljs watch app` 
+
+The application will be available at http://localhost:3000.
